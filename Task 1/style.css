@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+img {
+    height: 250px;
+    height: 300px;
+    display: flex;
+}
+
+body{
+    background-color: #D8D8D8;
+}
+
+.abt-me{
+    font-size: 20px;
+    background-color: #B0A4A4;
+    margin-top: -20px;
+}
+
+div{
+    font-size: 20px;
+}
+
+.icons{
+    display: flex;
+    justify-content: flex-end;
+    padding: 0;
+    
+}
+
+
